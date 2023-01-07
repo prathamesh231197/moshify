@@ -592,7 +592,7 @@ a {
 }
 
 .callout .btn {
-    justify-self: start;
+    justify-self: center;
     margin: 0 2rem;
 }
 
